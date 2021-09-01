@@ -1,0 +1,5 @@
+.bodybg{
+    -fx-background-image:url("/vetsystem2/background.jpg");
+    -fx-background-size:cover;
+}
+
